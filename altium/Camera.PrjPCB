@@ -159,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document9]
-DocumentPath=C:\Users\Public\Documents\Altium\AD 10\Library\Linear Technology\LT3402\2019-03-04_00-56-21.PcbLib
+DocumentPath=C:\Users\Public\Documents\Altium\AD 10\Library\Linear Technology\LT1963AEST\2019-04-13_17-39-13.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -175,7 +175,39 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 
 [Document10]
-DocumentPath=C:\Users\Public\Documents\Altium\AD 10\Library\Linear Technology\LT3402\2019-03-04_00-56-21.SchLib
+DocumentPath=C:\Users\Public\Documents\Altium\AD 10\Library\Linear Technology\LT1963AEST\LT1963AEST.LibPkg
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document11]
+DocumentPath=C:\Users\Public\Documents\Altium\AD 10\Library\Linear Technology\LT1963AEST\2019-04-13_17-39-13.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+
+[Document12]
+DocumentPath=C:\Users\Public\Documents\Altium\AD 10\Library\Linear Technology\LT1963AEST\2019-04-13_17-39-13.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
